@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore generated folders
+logistic_regression/trained_model/
+
 # Distribution / packaging
 .Python
 build/
